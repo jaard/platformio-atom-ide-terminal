@@ -147,6 +147,7 @@ module.exports =
             'dracula',
             'one-dark',
             'christmas'
+            'predawn'
           ]
     ansiColors:
       type: 'object'
